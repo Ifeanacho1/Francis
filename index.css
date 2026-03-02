@@ -9,5 +9,9 @@ h1{
     color: blue;
 }
 
-
+h2{
+    display: flex;
+    justify-content: flex-end;
+    color: red;
+}
 
